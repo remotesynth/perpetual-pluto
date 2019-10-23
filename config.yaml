@@ -1,0 +1,24 @@
+title: Stackbit Fjord Theme
+baseURL: /
+params:
+  header:
+    title: Brian Rinaldi
+    tagline: >-
+      Brian Rinaldi is a Developer Advocate at Stackbit. Brian has worked for
+      over 9 years focused on developer community and developer relations at
+      companies like Progress Software and Adobe.
+    bg_img: images/header-bg.jpg
+    has_nav: true
+    has_social: true
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+        new_window: true
+      - text: Generated from DEV
+        url: 'https://dev.to/connecting-with-stackbit'
+        new_window: true
+  palette: yellow
+disableKinds:
+  - RSS
